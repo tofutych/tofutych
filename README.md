@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm David!</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:tofutych@gmail.com" target="blank"><img align="center" src="./recources/icons/mail.svg" alt="asura#1213" height="30" width="40" /></a>
-<a href="https://t.me/tofutych" target="blank"><img align="center" src="./recources/icons/telegram.svg" alt="asura#1213" height="30" width="40" /></a>
+<a href="mailto:tofutych@gmail.com" target="blank"><img align="center" src="./resources/icons/mail.svg" alt="tofutych@gmail.com" height="30" width="40" /></a>
+<a href="https://t.me/tofutych" target="blank"><img align="center" src="./resources/icons/telegram.svg" alt="asura#1213" height="30" width="40" /></a>
 <a href="https://discord.gg/WXCNBMzf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asura#1213" height="30" width="40" /></a>
 <a href="https://instagram.com/tofutych" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tofutych" height="30" width="40" /></a>
 </p>
